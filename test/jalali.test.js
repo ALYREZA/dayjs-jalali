@@ -1,7 +1,7 @@
 import dayjs from "dayjs";
 import MockDate from "mockdate";
 import { DateTime } from "luxon";
-import jalali from "../src/index";
+import jalali from "../dayjs-jalali.min";
 
 dayjs.extend(jalali);
 

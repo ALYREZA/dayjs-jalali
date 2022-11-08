@@ -1,6 +1,7 @@
 {
 	"name": "dayjs-jalali",
 	"version": "0.0.2",
+	"type": "module",
 	"description": "Jalali calendar plugin for dayjs",
 	"main": "dayjs-jalali.min.js",
 	"repository": "https://github.com/torbatian/dayjs-jalali.git",
@@ -8,7 +9,7 @@
 	"license": "MIT",
 	"scripts": {
 		"test": "jest",
-		"build": "rollup -c --bundleConfigAsCjs"
+		"build": "rollup -c"
 	},
 	"keywords": [
 		"dayjs",
