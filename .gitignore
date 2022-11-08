@@ -62,4 +62,6 @@ typings/
 
 .vscode
 
-dayjs-jalali.min.js
+src
+
+test
