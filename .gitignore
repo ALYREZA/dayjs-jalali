@@ -62,6 +62,6 @@ typings/
 
 .vscode
 
-src
+src/
 
-test
+test/
